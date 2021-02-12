@@ -5,6 +5,7 @@
   "description": "excludes a folder from windows defender",
   "author": "Daniel Pihlstrom <sciolist.se@gmail.com>",
   "license": "ISC",
+  "main": "exclusions.js",
   "dependencies": {
     "chalk": "^1.1.3",
     "read": "^1.0.7"
